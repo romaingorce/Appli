@@ -1,8 +1,8 @@
 <?php
 	
-	$dbhost = 'batiactu-devvm1.isvtec.net';
+	$dbhost = 'localhost';
 	$dbuser = 'demo_2';
 	$dbpass = 'znDXlXUmXzdMX';
-	$dbname = 'directory';
+	$dbname = 'demo_2';
 
 ?>
